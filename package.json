@@ -1,0 +1,32 @@
+{
+  "name": "react_examples",
+  "version": "1.0.0",
+  "description": "A collection of react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnakhilomen/react_examples.git"
+  },
+  "keywords": [
+    "learn",
+    "react",
+    "learn",
+    "react",
+    "by",
+    "examples",
+    "react",
+    "examples"
+  ],
+  "author": "John Akhilomen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnakhilomen/react_examples/issues"
+  },
+  "homepage": "https://github.com/johnakhilomen/react_examples#readme",
+  "dependencies": {
+    "create-react-app": "^1.2.1"
+  }
+}
